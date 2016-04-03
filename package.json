@@ -13,6 +13,7 @@
   },
   "scripts": {
     "start": "brunch watch --server",
-    "build": "brunch build --production"
+    "build": "brunch build --production",
+    "update": "bower update"
   }
 }
